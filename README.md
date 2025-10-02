@@ -20,7 +20,7 @@ The goal is to practice **real-world SQL problem solving** and showcase skills r
 ## 🛠 Database Schema
 The database consists of 5 tables:
 
-- **Consumers** – demographic details (age, city, budget, occupation, habits).  
+- **Consumers_filled** – demographic details (age, city, budget, occupation, habits).  
 - **Restaurants** – restaurant attributes (location, alcohol service, parking, franchise, pricing).  
 - **Ratings** – ratings given by consumers (overall, food, service).  
 - **Consumer_Preferences** – cuisines preferred by each consumer.  
